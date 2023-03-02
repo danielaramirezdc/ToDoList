@@ -1,2 +1,2 @@
 # ToDoList
-Created with CodeSandbox
+Created with CodeSandbox & ChatGPT
